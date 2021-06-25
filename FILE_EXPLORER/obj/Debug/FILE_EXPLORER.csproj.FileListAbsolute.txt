@@ -1,0 +1,10 @@
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\bin\Debug\FILE_EXPLORER.exe.config
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\bin\Debug\FILE_EXPLORER.exe
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\bin\Debug\FILE_EXPLORER.pdb
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\obj\Debug\FILE_EXPLORER.csprojAssemblyReference.cache
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\obj\Debug\FILE_EXPLORER.Form1.resources
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\obj\Debug\FILE_EXPLORER.Properties.Resources.resources
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\obj\Debug\FILE_EXPLORER.csproj.GenerateResource.cache
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\obj\Debug\FILE_EXPLORER.csproj.CoreCompileInputs.cache
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\obj\Debug\FILE_EXPLORER.exe
+C:\Users\ngoth\Documents\20202\Project1 20202\FILE_EXPLORER\FILE_EXPLORER\obj\Debug\FILE_EXPLORER.pdb
